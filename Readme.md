@@ -12,7 +12,7 @@ A modern animated login page built using HTML and CSS.
 
 ## 📸 Preview
 
-![Preview](image.png)
+![Preview](127.0.0.1_5500_index.html.png)
 
 ## 🛠️ Built With
 
